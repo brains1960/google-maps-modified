@@ -1,6 +1,6 @@
-.App {
-  text-align: center;
-}
+/* .App {
+
+} */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -14,12 +14,23 @@
   color: white;
 }
 
+.App-body {
+  padding: 2% 10% 0 10%;
+}
+
 .App-title {
-  font-size: 1.5em;
+  font-size: 4em;
+  padding-left: 10%;
 }
 
 .App-intro {
   font-size: large;
+}
+
+.pred-num {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0;
 }
 
 @keyframes App-logo-spin {
